@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516866927 source:d:\codeblocks\最小重量机器设计\main.cpp
+	<iostream>
+	<stdio.h>
+
